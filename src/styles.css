@@ -3,6 +3,7 @@ body {
   background-color: #efefef;
   text-align: center;
   font-size: 4rem;
+  padding-top: 2rem;
   min-height: 100vh;
   overflow: hidden;
   cursor: crosshair;
